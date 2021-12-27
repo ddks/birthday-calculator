@@ -42,4 +42,4 @@ elif y<b and z==c:
     print ('tqven xart ', j-1, 'clis da tqveni dabadebis dge iqneba, zustad', b-y,' tveshi da gaxdebit', j, 'clis')
 elif y<b and z>c:
     print ('tqven xart ', j-1, 'clis da ', b-y, 'tvesa da', e-z+c, ' dgeshi gaxdebit', j,' clis')
-    #this is my first program on python
+    #this is my first program on python  
